@@ -9,7 +9,5 @@
         public const string GAME_LEVEL_TILE_DATA = GAME + "/LevelTileData";
         
         public const string GAME__CORE__LEVEL_TILE = GAME + "/Core/LevelTileData";
-        
-        
     }
 }
